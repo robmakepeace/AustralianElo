@@ -23,7 +23,7 @@ Header | Definition
 `awayovers` | Away Overs
 `toss` | Toss (1=Home, 2=Away)
 `batfirst` | Batted First (1=Home, 2=Away)
-`winner` | Winner (1=Home, 2=Away)
+`winner` | Winner (1=Home, 2=Away, 3=Abandoned )
 
 ## Team Indexes
 
