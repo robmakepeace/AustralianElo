@@ -1,3 +1,4 @@
+gameindex,year,month,day,round,hometeamindex,awayteamindex,homewinodds,drawodds,awayteamodds,overtime,homescore,awayscore,homepenaltyscore,awaypenaltyscore
 1,2008,8,29,,6,7,1.78,3.35,4.03,0,5,0,0,0
 2,2008,8,30,,1,11,1.75,3.34,4.22,0,3,0,0,0
 3,2008,8,31,,10,9,1.66,3.40,4.66,0,5,2,0,0

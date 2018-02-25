@@ -1,3 +1,4 @@
+gameindex,year,month,day,round,hometeamindex,awayteamindex,homewinodds,drawodds,awayteamodds,overtime,homescore,awayscore,homepenaltyscore,awaypenaltyscore
 1098,2016,10,7,,2,6,2.35,3.42,2.93,0,1,1,0,0
 1099,2016,10,8,,11,5,3.76,3.85,1.87,0,0,1,0,0
 1100,2016,10,8,,12,10,3.26,3.37,2.19,0,0,4,0,0

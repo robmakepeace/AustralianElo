@@ -1,3 +1,4 @@
+gameindex,year,month,day,round,hometeamindex,awayteamindex,homewinodds,drawodds,awayteamodds,overtime,homescore,awayscore,homepenaltyscore,awaypenaltyscore
 82,2009,8,6,,6,3,1.58,3.66,5.45,0,0,2,0,0
 83,2009,8,7,,1,9,1.89,3.35,3.79,0,1,0,0,0
 84,2009,8,8,,8,10,3.52,3.23,2.02,0,2,3,0,0
