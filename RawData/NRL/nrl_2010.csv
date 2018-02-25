@@ -1,3 +1,4 @@
+gameindex,year,month,day,round,hometeamindex,awayteamindex,homewinodds,drawodds,awayteamodds,overtime,homescore,awayscore
 202,2010,3,12,,13,12,1.64,19.6,2.24,0,12,18
 203,2010,3,12,,8,6,1.84,18.81,1.95,0,30,24
 204,2010,3,13,,2,11,1.24,25.71,4.05,0,16,20

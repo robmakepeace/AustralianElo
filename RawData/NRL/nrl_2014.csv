@@ -1,3 +1,4 @@
+gameindex,year,month,day,round,hometeamindex,awayteamindex,homewinodds,drawodds,awayteamodds,overtime,homescore,awayscore
 1006,2014,3,6,,1,4,2.23,19.18,1.66,0,28,8
 1007,2014,3,7,,2,8,1.59,19.28,2.39,0,12,18
 1008,2014,3,8,,3,11,1.8,18.33,2.05,0,30,8
