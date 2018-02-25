@@ -9,23 +9,6 @@ Australian ELO Sports Prediction Model
 
 # Raw Data
 
-## Format
-
-Header | Definition
----|---------
-`gameindex` | Game Index
-`year` | Game Year
-`month` | Game Month
-`day` | Game Day
-`round` | Round
-`hometeamindex` | Home Team Index
-`awayteamindex` | Away Team Index
-`homewinodds` | Home Team Win Odds
-`drawodds` | Draw Odds
-`awaywinodd` | Away Team Win Odds
-`homescore` | Home Score
-`awayscore` | Away Score
-
 ## Australian Football League (AFL)
 
 [AFL 2009-2018](https://github.com/robmakepeace/AustralianElo/blob/master/RawData/AFL/afl.csv)
@@ -50,7 +33,7 @@ Header | Definition
 
 [AFL 2018](https://github.com/robmakepeace/AustralianElo/blob/master/RawData/AFL/afl_2018.csv)
 
-[Team Indexes](./RawData/AFL/)
+[Data Format/Team Indexes](./RawData/AFL/)
 
 ## National Rugby League (NRL)
 [NRL 2009-2018](https://github.com/robmakepeace/AustralianElo/blob/master/RawData/NRL/nrl.csv)
@@ -75,7 +58,7 @@ Header | Definition
 
 [NRL 2018](https://github.com/robmakepeace/AustralianElo/blob/master/RawData/NRL/nrl_2018.csv)
 
-[Team Indexes](./RawData/NRL/)
+[Data Format/Team Indexes](./RawData/NRL/)
 
 ## A-League 
 [A-League 2008-2018](https://github.com/robmakepeace/AustralianElo/blob/master/RawData/ALeague/aleague.csv)
@@ -100,7 +83,7 @@ Header | Definition
 
 [A-League 2017-2018](https://github.com/robmakepeace/AustralianElo/blob/master/RawData/ALeague/aleague_2017_2018.csv)
 
-[Team Indexes](./RawData/ALeague/)
+[Data Format/Team Indexes](./RawData/ALeague/)
 
 ## Super Rugby
 [Super Rugby 2009-2018](https://github.com/robmakepeace/AustralianElo/blob/master/RawData/SuperRugby/super.csv)
@@ -125,7 +108,7 @@ Header | Definition
 
 [Super Rugby 2018](https://github.com/robmakepeace/AustralianElo/blob/master/RawData/SuperRugby/super_2018.csv)
 
-[Team Indexes](./RawData/SuperRugby/)
+[Data Format/Team Indexes](./RawData/SuperRugby/)
 
 ## Big Bash
 [Big Bash 2011-2018](https://github.com/robmakepeace/AustralianElo/blob/master/RawData/BigBash/bigbash.csv)
@@ -144,4 +127,4 @@ Header | Definition
 
 [Big Bash 2017-2018](https://github.com/robmakepeace/AustralianElo/blob/master/RawData/BigBash/bigbash_2017_2018.csv)
 
-[Team Indexes](./RawData/Big Bash/)
+[Data Format/Team Indexes](./RawData/Big Bash/)
