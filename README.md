@@ -139,7 +139,7 @@ Australian ELO Sports Prediction Model
 
 # Graphs
 
-![NRL ELO](https://raw.githubusercontent.com/robmakepeace/AustralianElo/Graphs/NRL/ELO_nrl.png)
+![NRL ELO](./Graphs/NRL/ELO_nrl.png)
 
 <a name="training"/>
 
