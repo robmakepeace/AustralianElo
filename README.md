@@ -6,8 +6,11 @@ Australian ELO Sports Prediction Model
 [Raw Data](#rawdata)
 
 <a name="rawdata"/>
+
 # Raw Data
+
 ## Australian Football League (AFL)
+
 [AFL 2009-2018](https://github.com/robmakepeace/AustralianElo/blob/master/RawData/AFL/afl.csv)
 
 [AFL 2009](https://github.com/robmakepeace/AustralianElo/blob/master/RawData/AFL/afl_2009.csv)
@@ -29,6 +32,8 @@ Australian ELO Sports Prediction Model
 [AFL 2017](https://github.com/robmakepeace/AustralianElo/blob/master/RawData/AFL/afl_2017.csv)
 
 [AFL 2018](https://github.com/robmakepeace/AustralianElo/blob/master/RawData/AFL/afl_2018.csv)
+
+[Team Indexes](https://github.com/robmakepeace/AustralianElo/blob/master/RawData/AFL/)
 
 ## National Rugby League (NRL)
 [NRL 2009-2018](https://github.com/robmakepeace/AustralianElo/blob/master/RawData/NRL/nrl.csv)
