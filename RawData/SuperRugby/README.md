@@ -1,6 +1,7 @@
-#Super Rugby Raw Data
+# Super Rugby Raw Data
 
-#Team Indexes
+## Team Indexes
+
 1 Blues      
 
 2 Brumbies    
