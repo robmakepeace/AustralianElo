@@ -9,7 +9,7 @@ Australian ELO Sports Prediction Model
 
 # Raw Data
 
-##Format
+## Format
 
 Header | Definition
 ---|---------
