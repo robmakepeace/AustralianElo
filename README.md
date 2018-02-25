@@ -177,7 +177,7 @@ Australian ELO Sports Prediction Model
 
 ## A-League
 
-[A-League](https://github.com/robmakepeace/AustralianElo/blob/master/Training/ALeague/aleague_training.txt)
+[A-League](https://github.com/robmakepeace/AustralianElo/blob/master/Training/Aleague/aleague_training.txt)
 
 ## Super Rugby
 
