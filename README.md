@@ -141,9 +141,9 @@ Australian ELO Sports Prediction Model
 
 ## AFL
 
-![AFL ELO](./Graphs/NRL/ELO_afl.png)
+![AFL ELO](./Graphs/AFL/ELO_afl.png)
 
-![AFL ODDS](./Graphs/NRL/ODDS_afl.png)
+![AFL ODDS](./Graphs/AFL/ODDS_afl.png)
 
 ## NRL
 
@@ -153,15 +153,15 @@ Australian ELO Sports Prediction Model
 
 ## A-League
 
-![A-League ELO](./Graphs/NRL/ELO_aleague.png)
+![A-League ELO](./Graphs/ALeague/ELO_aleague.png)
 
-![A-League ODDS](./Graphs/NRL/ODDS_aleague.png)
+![A-League ODDS](./Graphs/ALeague/ODDS_aleague.png)
 
 ## Super Rugby
 
-![Super Rugby ELO](./Graphs/NRL/ELO_super.png)
+![Super Rugby ELO](./Graphs/SuperRugby/ELO_super.png)
 
-![Super Rugby ODDS](./Graphs/NRL/ODDS_super.png)
+![Super Rugby ODDS](./Graphs/SuperRugby/ODDS_super.png)
 
 <a name="training"/>
 
@@ -169,19 +169,19 @@ Australian ELO Sports Prediction Model
 
 ## AFL
 
-[AFL](https://github.com/robmakepeace/AustralianElo/blob/master/Training/AFL/afl_training.csv)
+[AFL](https://github.com/robmakepeace/AustralianElo/blob/master/Training/AFL/afl_training.txt)
 
 ## NRL
 
-[NRL](https://github.com/robmakepeace/AustralianElo/blob/master/Training/NRL/nrl_training.csv)
+[NRL](https://github.com/robmakepeace/AustralianElo/blob/master/Training/NRL/nrl_training.txt)
 
 ## A-League
 
-[A-League](https://github.com/robmakepeace/AustralianElo/blob/master/Training/ALeague/aleague_training.csv)
+[A-League](https://github.com/robmakepeace/AustralianElo/blob/master/Training/ALeague/aleague_training.txt)
 
 ## Super Rugby
 
-[Super Rugby](https://github.com/robmakepeace/AustralianElo/blob/master/Training/SuperRugby/super_training.csv)
+[Super Rugby](https://github.com/robmakepeace/AustralianElo/blob/master/Training/SuperRugby/super_training.txt)
 
 <a name="predictions"/>
 
