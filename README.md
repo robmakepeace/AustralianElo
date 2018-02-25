@@ -1,13 +1,11 @@
 # AustralianElo
 Australian ELO Sports Prediction Model
 
-#Contents
+# Contents
 
 [Raw Data](#rawdata)
 
-
 <a name="rawdata"/>
-
 # Raw Data
 ## Australian Football League (AFL)
 [AFL 2009-2018](https://github.com/robmakepeace/AustralianElo/blob/master/RawData/AFL/afl.csv)
