@@ -1,4 +1,4 @@
-gaeindex,year,month,day,round,hometeamindex,awayteamindex,homewinodds,drawodds,awaywinodds,overtime,homescore,awayscore
+gameindex,year,month,day,round,hometeamindex,awayteamindex,homewinodds,drawodds,awaywinodds,overtime,homescore,awayscore
 1,2009,6,19,,5,11, 1.24 ,, 3.93 ,,131,83
 2,2009,6,20,,16,4, 1.93 ,, 1.75 ,,66,89
 3,2009,6,21,,6,7, 7.25 ,, 1.08 ,,75,94
