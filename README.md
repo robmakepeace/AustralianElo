@@ -9,6 +9,23 @@ Australian ELO Sports Prediction Model
 
 # Raw Data
 
+##Format
+
+Header | Definition
+---|---------
+`gameindex` | Game Index
+`year` | Game Year
+`month` | Game Month
+`day` | Game Day
+`round` | Round
+`hometeamindex` | Home Team Index
+`awayteamindex` | Away Team Index
+`homewinodds` | Home Team Win Odds
+`drawodds` | Draw Odds
+`awaywinodd` | Away Team Win Odds
+`homescore` | Home Score
+`awayscore` | Away Score
+
 ## Australian Football League (AFL)
 
 [AFL 2009-2018](https://github.com/robmakepeace/AustralianElo/blob/master/RawData/AFL/afl.csv)
@@ -33,7 +50,7 @@ Australian ELO Sports Prediction Model
 
 [AFL 2018](https://github.com/robmakepeace/AustralianElo/blob/master/RawData/AFL/afl_2018.csv)
 
-[Team Indexes](https://github.com/robmakepeace/AustralianElo/blob/master/RawData/AFL/)
+[Team Indexes](./RawData/AFL/)
 
 ## National Rugby League (NRL)
 [NRL 2009-2018](https://github.com/robmakepeace/AustralianElo/blob/master/RawData/NRL/nrl.csv)
@@ -55,6 +72,9 @@ Australian ELO Sports Prediction Model
 [NRL 2017](https://github.com/robmakepeace/AustralianElo/blob/master/RawData/NRL/nrl_2016.csv)
 
 [NRL 2018](https://github.com/robmakepeace/AustralianElo/blob/master/RawData/NRL/nrl_2017.csv)
+
+[Team Indexes](./RawData/NRL/)
+
 ## A-League 
 [A-League 2008-2018](https://github.com/robmakepeace/AustralianElo/blob/master/RawData/ALeague/aleague.csv)
 
@@ -77,6 +97,9 @@ Australian ELO Sports Prediction Model
 [A-League 2016-2017](https://github.com/robmakepeace/AustralianElo/blob/master/RawData/ALeague/aleague_2016_2017.csv)
 
 [A-League 2017-2018](https://github.com/robmakepeace/AustralianElo/blob/master/RawData/ALeague/aleague_2017_2018.csv)
+
+[Team Indexes](./RawData/ALeague/)
+
 ## Super Rugby
 [Super Rugby 2009-2018](https://github.com/robmakepeace/AustralianElo/blob/master/RawData/SuperRugby/super.csv)
 
@@ -99,6 +122,9 @@ Australian ELO Sports Prediction Model
 [Super Rugby 2017](https://github.com/robmakepeace/AustralianElo/blob/master/RawData/SuperRugby/super_2017.csv)
 
 [Super Rugby 2018](https://github.com/robmakepeace/AustralianElo/blob/master/RawData/SuperRugby/super_2018.csv)
+
+[Team Indexes](./RawData/SuperRugby/)
+
 ## Big Bash
 [Big Bash 2011-2018](https://github.com/robmakepeace/AustralianElo/blob/master/RawData/BigBash/bigbash.csv)
 
@@ -115,3 +141,5 @@ Australian ELO Sports Prediction Model
 [Big Bash 2016-2017](https://github.com/robmakepeace/AustralianElo/blob/master/RawData/BigBash/bigbash_2016_2017.csv)
 
 [Big Bash 2017-2018](https://github.com/robmakepeace/AustralianElo/blob/master/RawData/BigBash/bigbash_2017_2018.csv)
+
+[Team Indexes](./RawData/Big Bash/)
