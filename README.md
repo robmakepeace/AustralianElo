@@ -5,6 +5,12 @@ Australian ELO Sports Prediction Model
 
 [Raw Data](#rawdata)
 
+[Graphs](#graphs)
+
+[Training](#training)
+
+[Predictions](#predictions)
+
 <a name="rawdata"/>
 
 # Raw Data
@@ -128,3 +134,25 @@ Australian ELO Sports Prediction Model
 [Big Bash 2017-2018](https://github.com/robmakepeace/AustralianElo/blob/master/RawData/BigBash/bigbash_2017_2018.csv)
 
 [Data Format/Team Indexes](./RawData/Big Bash/)
+
+<a name="graphs"/>
+
+# Graphs
+
+![NRL ELO](https://raw.githubusercontent.com/robmakepeace/AustralianElo/Graphs/NRL/ELO_nrl.png)
+
+<a name="training"/>
+
+# Training
+
+[AFL](https://github.com/robmakepeace/AustralianElo/blob/master/Training/AFL/afl_training.csv)
+
+[NRL](https://github.com/robmakepeace/AustralianElo/blob/master/Training/NRL/nrl_training.csv)
+
+[A-League](https://github.com/robmakepeace/AustralianElo/blob/master/Training/ALeague/aleague_training.csv)
+
+[Super Rugby](https://github.com/robmakepeace/AustralianElo/blob/master/Training/SuperRugby/super_training.csv)
+
+<a name="predictions"/>
+
+# Predictions
