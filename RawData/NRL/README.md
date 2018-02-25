@@ -1,6 +1,24 @@
 # NRL Raw Data
 
-#Team Indexes
+## Format
+
+Header | Definition
+---|---------
+`gameindex` | Game Index
+`year` | Game Year
+`month` | Game Month
+`day` | Game Day
+`round` | Round
+`hometeamindex` | Home Team Index
+`awayteamindex` | Away Team Index
+`homewinodds` | Home Team Win Odds
+`drawodds` | Draw Odds
+`awaywinodd` | Away Team Win Odds
+`overtime` | Overtime
+`homescore` | Home Score
+`awayscore` | Away Score
+
+## Team Indexes
 
 1 South Sydney Rabbitohs   
 
