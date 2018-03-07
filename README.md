@@ -186,3 +186,27 @@ Australian ELO Sports Prediction Model
 <a name="predictions"/>
 
 # Predictions
+
+## NRL
+
+## Current Predictions
+
+[NRL CSV] (https://github.com/robmakepeace/AustralianElo/blob/master/Predictions/NRL/nrl_future_predictions.csv)
+
+Round 1 (generated 07/03/2018)
+
+Robs Elo predicts Brisbane Broncos          (away) to beat St George Dragons         (home) with a probability of 57.15%
+
+Robs Elo predicts Manly Sea Eagles          (away) to beat Newcastle Knights         (home) with a probability of 53.60%
+
+Robs Elo predicts North Queensland Cowboys  (home) to beat Cronulla Sharks           (away) with a probability of 68.23%
+
+Robs Elo predicts Sydney Roosters           (away) to beat Wests Tigers              (home) with a probability of 51.81%
+
+Robs Elo predicts South Sydney Rabbitohs    (home) to beat New Zealand Warriors      (away) with a probability of 77.53%
+
+Robs Elo predicts Melbourne Storm           (away) to beat Canterbury Bulldogs       (home) with a probability of 74.73%
+
+Robs Elo predicts Penrith Panthers          (home) to beat Parramatta Eels           (away) with a probability of 66.67%
+
+Robs Elo predicts Canberra Raiders          (away) to beat Gold Coast Titans         (home) with a probability of 68.98%
