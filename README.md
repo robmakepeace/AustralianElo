@@ -191,9 +191,9 @@ Australian ELO Sports Prediction Model
 
 ## Current Predictions
 
-[NRL CSV] (https://github.com/robmakepeace/AustralianElo/blob/master/Predictions/NRL/nrl_future_predictions.csv)
+[NRL CSV](https://github.com/robmakepeace/AustralianElo/blob/master/Predictions/NRL/nrl_future_predictions.csv)
 
-Round 1 (generated 07/03/2018)
+### Round 1 (generated 07/03/2018)
 
 Robs Elo predicts Brisbane Broncos          (away) to beat St George Dragons         (home) with a probability of 57.15%
 
