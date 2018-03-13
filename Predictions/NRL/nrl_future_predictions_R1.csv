@@ -1,0 +1,10 @@
+Exporting ..\Predictions\nrl\nrl_future_predictions.csv
+Match Index,Round,Year,Month,Day,Home Team Index,Home Team Name,Away Team Index,Away Team Name,Home Team Elo Points,Away Team Elo Points,Home Team Elo Probability,Away Team Elo Probability,Prediction
+1780,0,2018,3,8,12,St George Dragons        ,8,Brisbane Broncos         ,1440.20,1590.24,42.85%,57.15%,Robs Elo predicts Brisbane Broncos          (away) to beat St George Dragons         (home) with a probability of 57.15%
+1781,0,2018,3,9,11,Newcastle Knights        ,5,Manly Sea Eagles         ,1369.20,1494.27,46.40%,53.60%,Robs Elo predicts Manly Sea Eagles          (away) to beat Newcastle Knights         (home) with a probability of 53.60%
+1782,0,2018,3,9,6,North Queensland Cowboys ,16,Cronulla Sharks          ,1587.35,1554.59,68.23%,31.77%,Robs Elo predicts North Queensland Cowboys  (home) to beat Cronulla Sharks           (away) with a probability of 68.23%
+1783,0,2018,3,10,15,Wests Tigers             ,4,Sydney Roosters          ,1421.31,1533.91,48.19%,51.81%,Robs Elo predicts Sydney Roosters           (away) to beat Wests Tigers              (home) with a probability of 51.81%
+1784,0,2018,3,10,1,South Sydney Rabbitohs   ,9,New Zealand Warriors     ,1441.28,1326.17,77.53%,22.47%,Robs Elo predicts South Sydney Rabbitohs    (home) to beat New Zealand Warriors      (away) with a probability of 77.53%
+1785,0,2018,3,11,2,Canterbury Bulldogs      ,7,Melbourne Storm          ,1474.09,1762.44,25.27%,74.73%,Robs Elo predicts Melbourne Storm           (away) to beat Canterbury Bulldogs       (home) with a probability of 74.73%
+1786,0,2018,3,11,3,Penrith Panthers         ,13,Parramatta Eels          ,1574.40,1553.99,66.67%,33.33%,Robs Elo predicts Penrith Panthers          (home) to beat Parramatta Eels           (away) with a probability of 66.67%
+1787,0,2018,3,11,10,Gold Coast Titans        ,14,Canberra Raiders         ,1318.85,1557.71,31.02%,68.98%,Robs Elo predicts Canberra Raiders          (away) to beat Gold Coast Titans         (home) with a probability of 68.98%
