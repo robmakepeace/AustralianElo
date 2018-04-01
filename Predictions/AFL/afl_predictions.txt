@@ -3,13 +3,13 @@ Predictions
 ******************************
 
 Importing ..\RawData\AFL\AFL_future.txt
-Robs Elo predicts 	Richmond             (home) to beat 	Carlton              (away) with a probability of 	96.69%
-Robs Elo predicts 	Adelaide             (away) to beat 	Essendon             (home) with a probability of 	50.07%
-Robs Elo predicts 	St Kilda             (home) to beat 	Brisbane             (away) with a probability of 	89.35%
-Robs Elo predicts 	Port Adelaide        (home) to beat 	Fremantle            (away) with a probability of 	91.55%
-Robs Elo predicts 	North Melbourne      (away) to beat 	Gold Coast           (home) with a probability of 	51.05%
-Robs Elo predicts 	Hawthorn             (home) to beat 	Collingwood          (away) with a probability of 	70.31%
-Robs Elo predicts 	GWS Giants           (home) to beat 	Western Bulldogs     (away) with a probability of 	83.06%
-Robs Elo predicts 	Melbourne            (home) to beat 	Geelong              (away) with a probability of 	51.72%
-Robs Elo predicts 	Sydney               (away) to beat 	West Coast           (home) with a probability of 	56.47%
+Robs Elo predicts 	Richmond             (away) to beat 	Adelaide             (home) with a probability of 	56.01%
+Robs Elo predicts 	St Kilda             (away) to beat 	North Melbourne      (home) with a probability of 	56.85%
+Robs Elo predicts 	Carlton              (home) to beat 	Gold Coast           (away) with a probability of 	68.35%
+Robs Elo predicts 	GWS Giants           (away) to beat 	Collingwood          (home) with a probability of 	60.06%
+Robs Elo predicts 	Melbourne            (away) to beat 	Brisbane             (home) with a probability of 	69.33%
+Robs Elo predicts 	Essendon             (away) to beat 	Fremantle            (home) with a probability of 	70.33%
+Robs Elo predicts 	West Coast           (away) to beat 	Western Bulldogs     (home) with a probability of 	55.39%
+Robs Elo predicts 	Sydney               (home) to beat 	Port Adelaide        (away) with a probability of 	72.80%
+Robs Elo predicts 	Geelong              (home) to beat 	Hawthorn             (away) with a probability of 	78.79%
 Exporting ..\Predictions\AFL\AFL_future_predictions.csv.txt

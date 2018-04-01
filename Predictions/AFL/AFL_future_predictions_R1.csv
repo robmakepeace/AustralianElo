@@ -1,0 +1,11 @@
+Exporting ..\Predictions\AFL\AFL_future_predictions.csv
+Match Index,Round,Year,Month,Day,Home Team Index,Home Team Name,Away Team Index,Away Team Name,Home Team Elo Points,Away Team Elo Points,Home Team Elo Probability,Away Team Elo Probability,Prediction
+1716,0,2018,3,22,14,Richmond            ,3,Carlton             ,1769.85,1303.89,96.69%,3.31%,Robs Elo predicts Richmond             (home) to beat Carlton              (away) with a probability of 96.69%
+1717,0,2018,3,23,5,Essendon            ,1,Adelaide            ,1523.62,1644.10,49.93%,50.07%,Robs Elo predicts Adelaide             (away) to beat Essendon             (home) with a probability of 50.07%
+1718,0,2018,3,24,15,St Kilda            ,2,Brisbane            ,1498.49,1248.97,89.35%,10.65%,Robs Elo predicts St Kilda             (home) to beat Brisbane             (away) with a probability of 89.35%
+1719,0,2018,3,24,13,Port Adelaide       ,6,Fremantle           ,1588.89,1294.95,91.55%,8.45%,Robs Elo predicts Port Adelaide        (home) to beat Fremantle            (away) with a probability of 91.55%
+1720,0,2018,3,24,8,Gold Coast          ,12,North Melbourne     ,1249.49,1376.79,48.95%,51.05%,Robs Elo predicts North Melbourne      (away) to beat Gold Coast           (home) with a probability of 51.05%
+1721,0,2018,3,24,10,Hawthorn            ,4,Collingwood         ,1511.03,1481.24,70.31%,29.69%,Robs Elo predicts Hawthorn             (home) to beat Collingwood          (away) with a probability of 70.31%
+1722,0,2018,3,25,9,GWS Giants          ,18,Western Bulldogs    ,1628.61,1472.42,83.06%,16.94%,Robs Elo predicts GWS Giants           (home) to beat Western Bulldogs     (away) with a probability of 83.06%
+1723,0,2018,3,25,11,Melbourne           ,7,Geelong             ,1519.92,1627.97,51.72%,48.28%,Robs Elo predicts Melbourne            (home) to beat Geelong              (away) with a probability of 51.72%
+1724,0,2018,3,25,17,West Coast          ,16,Sydney              ,1547.28,1712.50,43.53%,56.47%,Robs Elo predicts Sydney               (away) to beat West Coast           (home) with a probability of 56.47%
