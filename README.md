@@ -295,23 +295,23 @@ Robs Elo predicts 	Collingwood          (home) to beat 	Essendon             (aw
 
 ### Round 6 (generated 24/04/2018)
 
-Robs Elo predicts 	Western Bulldogs     (home) to beat 	Carlton              (away) with a probability of 	88.54%
+Robs Elo predicts 	Western Bulldogs     (home) to beat 	Carlton              (away) with a probability of 	86.42%
 
-Robs Elo predicts 	Geelong              (home) to beat 	Sydney               (away) with a probability of 	64.07%
+Robs Elo predicts 	Geelong              (home) to beat 	Sydney               (away) with a probability of 	76.09%
 
-Robs Elo predicts 	Port Adelaide        (away) to beat 	North Melbourne      (home) with a probability of 	62.15%
+Robs Elo predicts 	North Melbourne      (home) to beat 	Port Adelaide        (away) with a probability of 	53.45%
 
-Robs Elo predicts 	GWS Giants           (home) to beat 	Brisbane             (away) with a probability of 	96.02%
+Robs Elo predicts 	GWS Giants           (home) to beat 	Brisbane             (away) with a probability of 	96.45%
 
-Robs Elo predicts 	Hawthorn             (home) to beat 	St Kilda             (away) with a probability of 	84.61%
+Robs Elo predicts 	Hawthorn             (home) to beat 	St Kilda             (away) with a probability of 	79.77%
 
-Robs Elo predicts 	Adelaide             (home) to beat 	Gold Coast           (away) with a probability of 	92.35%
+Robs Elo predicts 	Adelaide             (home) to beat 	Gold Coast           (away) with a probability of 	93.09%
 
-Robs Elo predicts 	Essendon             (home) to beat 	Melbourne            (away) with a probability of 	67.79%
+Robs Elo predicts 	Essendon             (home) to beat 	Melbourne            (away) with a probability of 	68.26%
 
-Robs Elo predicts 	Richmond             (away) to beat 	Collingwood          (home) with a probability of 	57.72%
+Robs Elo predicts 	Richmond             (away) to beat 	Collingwood          (home) with a probability of 	58.24%
 
-Robs Elo predicts 	West Coast           (away) to beat 	Fremantle            (home) with a probability of 	72.37%
+Robs Elo predicts 	West Coast           (away) to beat 	Fremantle            (home) with a probability of 	68.33%
 
 ## NRL
 
