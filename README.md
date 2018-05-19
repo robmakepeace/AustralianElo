@@ -353,6 +353,26 @@ Robs Elo predicts 	Richmond             (away) to beat 	North Melbourne      (ho
 
 Robs Elo predicts 	Collingwood          (home) to beat 	Geelong              (away) with a probability of 	57.68%
 
+### Round 9 (generated 19/05/2018)
+
+Robs Elo predicts 	Adelaide             (home) to beat 	Western Bulldogs     (away) with a probability of 	87.29%
+
+Robs Elo predicts 	North Melbourne      (home) to beat 	GWS Giants           (away) with a probability of 	56.32%
+
+Robs Elo predicts 	Port Adelaide        (away) to beat 	Gold Coast           (home) with a probability of 	76.77%
+
+Robs Elo predicts 	Geelong              (away) to beat 	Essendon             (home) with a probability of 	74.82%
+
+Robs Elo predicts 	Sydney               (home) to beat 	Fremantle            (away) with a probability of 	88.06%
+
+Robs Elo predicts 	Collingwood          (away) to beat 	St Kilda             (home) with a probability of 	59.32%
+
+Robs Elo predicts 	Melbourne            (away) to beat 	Carlton              (home) with a probability of 	71.73%
+
+Robs Elo predicts 	Hawthorn             (away) to beat 	Brisbane             (home) with a probability of 	81.30%
+
+Robs Elo predicts 	West Coast           (home) to beat 	Richmond             (away) with a probability of 	58.19%
+
 ## NRL
 
 ### Current Predictions
@@ -538,3 +558,21 @@ Robs Elo predicts 	Brisbane Broncos          (away) to beat 	Manly Sea Eagles   
 Robs Elo predicts 	St George Dragons         (away) to beat 	South Sydney Rabbitohs    (home) with a probability of 	50.38%
 
 Robs Elo predicts 	Canberra Raiders          (home) to beat 	Cronulla Sharks           (away) with a probability of 	61.51%
+
+### Round 11 (generated 19/05/2018)
+
+Robs Elo predicts 	Penrith Panthers          (home) to beat 	Wests Tigers              (away) with a probability of 	77.70%
+
+Robs Elo predicts 	Parramatta Eels           (home) to beat 	New Zealand Warriors      (away) with a probability of 	54.90%
+
+Robs Elo predicts 	Sydney Roosters           (away) to beat 	Brisbane Broncos          (home) with a probability of 	51.22%
+
+Robs Elo predicts 	Gold Coast Titans         (home) to beat 	Newcastle Knights         (away) with a probability of 	59.41%
+
+Robs Elo predicts 	South Sydney Rabbitohs    (away) to beat 	North Queensland Cowboys  (home) with a probability of 	58.50%
+
+Robs Elo predicts 	Melbourne Storm           (home) to beat 	Manly Sea Eagles          (away) with a probability of 	91.57%
+
+Robs Elo predicts 	St George Dragons         (home) to beat 	Canberra Raiders          (away) with a probability of 	78.55%
+
+Robs Elo predicts 	Cronulla Sharks           (home) to beat 	Canterbury Bulldogs       (away) with a probability of 	80.27%
