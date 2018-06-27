@@ -455,6 +455,26 @@ Robs Elo predicts 	North Melbourne      (away) to beat 	Western Bulldogs     (ho
 
 Robs Elo predicts 	Collingwood          (home) to beat 	Carlton              (away) with a probability of 	95.79%
 
+### Round 15 (generated 27/06/2018)
+
+Robs Elo predicts 	Richmond             (home) to beat 	Sydney               (away) with a probability of 	72.83%
+
+Robs Elo predicts 	Geelong              (away) to beat 	Western Bulldogs     (home) with a probability of 	68.18%
+
+Robs Elo predicts 	Port Adelaide        (away) to beat 	Carlton              (home) with a probability of 	85.00%
+
+Robs Elo predicts 	West Coast           (away) to beat 	Adelaide             (home) with a probability of 	62.41%
+
+Robs Elo predicts 	Collingwood          (away) to beat 	Gold Coast           (home) with a probability of 	87.79%
+
+Robs Elo predicts 	GWS Giants           (home) to beat 	Hawthorn             (away) with a probability of 	63.51%
+
+Robs Elo predicts 	Melbourne            (home) to beat 	St Kilda             (away) with a probability of 	92.11%
+
+Robs Elo predicts 	Essendon             (home) to beat 	North Melbourne      (away) with a probability of 	74.25%
+
+Robs Elo predicts 	Fremantle            (home) to beat 	Brisbane             (away) with a probability of 	88.26%
+
 ## NRL
 
 ### Current Predictions
