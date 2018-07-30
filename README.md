@@ -535,9 +535,9 @@ Robs Elo predicts 	West Coast           (home) to beat 	Western Bulldogs     (aw
 
 Robs Elo predicts 	Port Adelaide        (home) to beat 	GWS Giants           (away) with a probability of 	75.68%
 
-Robs Elo predicts 	Essendon             (home) to beat 	Sydney               (away) with a probability of 	67.86%
-
 ### Round 19 (generated 23/07/2018)
+
+Robs Elo predicts 	Essendon             (home) to beat 	Sydney               (away) with a probability of 	67.86%
 
 Robs Elo predicts 	Richmond             (home) to beat 	Collingwood          (away) with a probability of 	82.30%
 
@@ -554,6 +554,26 @@ Robs Elo predicts 	West Coast           (away) to beat 	North Melbourne      (ho
 Robs Elo predicts 	Port Adelaide        (away) to beat 	Western Bulldogs     (home) with a probability of 	66.81%
 
 Robs Elo predicts 	Hawthorn             (away) to beat 	Fremantle            (home) with a probability of 	50.39%
+
+### Round 20 (generated 30/07/2018)
+
+Robs Elo predicts 	Richmond             (home) to beat 	Geelong              (away) with a probability of 	86.31%
+
+Robs Elo predicts 	Hawthorn             (home) to beat 	Essendon             (away) with a probability of 	55.65%
+
+Robs Elo predicts 	North Melbourne      (away) to beat 	Brisbane             (home) with a probability of 	55.89%
+
+Robs Elo predicts 	Adelaide             (home) to beat 	Port Adelaide        (away) with a probability of 	59.40%
+
+Robs Elo predicts 	St Kilda             (home) to beat 	Western Bulldogs     (away) with a probability of 	71.36%
+
+Robs Elo predicts 	Sydney               (home) to beat 	Collingwood          (away) with a probability of 	53.50%
+
+Robs Elo predicts 	GWS Giants           (away) to beat 	Carlton              (home) with a probability of 	81.58%
+
+Robs Elo predicts 	Melbourne            (home) to beat 	Gold Coast           (away) with a probability of 	95.99%
+
+Robs Elo predicts 	West Coast           (home) to beat 	Fremantle            (away) with a probability of 	93.24%
 
 ## NRL
 
