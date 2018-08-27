@@ -635,6 +635,16 @@ Robs Elo predicts 	Melbourne            (home) to beat 	GWS Giants           (aw
 
 Robs Elo predicts 	North Melbourne      (away) to beat 	St Kilda             (home) with a probability of 	67.53%
 
+### Round F1 (generated 27/08/2018)
+
+Robs Elo predicts 	Richmond             (home) to beat 	Hawthorn             (away) with a probability of 	86.28%
+
+Robs Elo predicts 	Melbourne            (home) to beat 	Geelong              (away) with a probability of 	74.27%
+
+Robs Elo predicts 	Sydney               (home) to beat 	GWS Giants           (away) with a probability of 	73.41%
+
+Robs Elo predicts 	West Coast           (home) to beat 	Collingwood          (away) with a probability of 	63.51%
+
 ## NRL
 
 ### Current Predictions
@@ -1056,3 +1066,21 @@ Robs Elo predicts 	Sydney Roosters           (home) to beat 	Brisbane Broncos   
 Robs Elo predicts 	Cronulla Sharks           (home) to beat 	Newcastle Knights         (away) with a probability of 	91.54%
 
 Robs Elo predicts 	St George Dragons         (home) to beat 	Canterbury Bulldogs       (away) with a probability of 	73.67%
+
+### Round 25 (generated 27/08/2018)
+
+Robs Elo predicts 	South Sydney Rabbitohs    (home) to beat 	Wests Tigers              (away) with a probability of 	77.15%
+
+Robs Elo predicts 	New Zealand Warriors      (home) to beat 	Canberra Raiders          (away) with a probability of 	63.80%
+
+Robs Elo predicts 	Melbourne Storm           (home) to beat 	Penrith Panthers          (away) with a probability of 	86.71%
+
+Robs Elo predicts 	Newcastle Knights         (home) to beat 	St George Dragons         (away) with a probability of 	54.75%
+
+Robs Elo predicts 	Gold Coast Titans         (home) to beat 	North Queensland Cowboys  (away) with a probability of 	61.80%
+
+Robs Elo predicts 	Sydney Roosters           (away) to beat 	Parramatta Eels           (home) with a probability of 	71.04%
+
+Robs Elo predicts 	Cronulla Sharks           (away) to beat 	Canterbury Bulldogs       (home) with a probability of 	60.24%
+
+Robs Elo predicts 	Brisbane Broncos          (home) to beat 	Manly Sea Eagles          (away) with a probability of 	89.00%
