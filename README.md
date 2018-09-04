@@ -1084,3 +1084,13 @@ Robs Elo predicts 	Sydney Roosters           (away) to beat 	Parramatta Eels    
 Robs Elo predicts 	Cronulla Sharks           (away) to beat 	Canterbury Bulldogs       (home) with a probability of 	60.24%
 
 Robs Elo predicts 	Brisbane Broncos          (home) to beat 	Manly Sea Eagles          (away) with a probability of 	89.00%
+
+### Round 26 (generated 04/09/2018)
+
+Robs Elo predicts 	Melbourne Storm           (home) to beat 	South Sydney Rabbitohs    (away) with a probability of 	70.62%
+
+Robs Elo predicts 	Penrith Panthers          (home) to beat 	New Zealand Warriors      (away) with a probability of 	57.41%
+
+Robs Elo predicts 	Sydney Roosters           (home) to beat 	Cronulla Sharks           (away) with a probability of 	58.32%
+
+Robs Elo predicts 	Brisbane Broncos          (home) to beat 	St George Dragons         (away) with a probability of 	83.86%
