@@ -645,6 +645,12 @@ Robs Elo predicts 	Sydney               (home) to beat 	GWS Giants           (aw
 
 Robs Elo predicts 	West Coast           (home) to beat 	Collingwood          (away) with a probability of 	63.51%
 
+### Round F2 (generated 11/09/2018)
+
+Robs Elo predicts 	Hawthorn             (home) to beat 	Melbourne              (away) with a probability of 	57.93%
+
+Robs Elo predicts 	Collingwood          (home) to beat 	GWS Giants             (away) with a probability of 	68.05%
+
 ## NRL
 
 ### Current Predictions
@@ -1094,3 +1100,9 @@ Robs Elo predicts 	Penrith Panthers          (home) to beat 	New Zealand Warrior
 Robs Elo predicts 	Sydney Roosters           (home) to beat 	Cronulla Sharks           (away) with a probability of 	58.32%
 
 Robs Elo predicts 	Brisbane Broncos          (home) to beat 	St George Dragons         (away) with a probability of 	83.86%
+
+### Round 27 (generated 11/09/2018)
+
+Robs Elo predicts 	Cronulla Sharks           (home) to beat 	Penrith Panthers          (away) with a probability of 	77.71%
+
+Robs Elo predicts 	South Sydney Rabbitohs    (home) to beat 	St George Dragons         (away) with a probability of 	67.79%
