@@ -1,0 +1,96 @@
+Exporting ..\Predictions\SuperRugby\super_future_predictions.csv
+Match Index,Round,Year,Month,Day,Home Team Index,Home Team Name,Away Team Index,Away Team Name,Home Team Elo Points,Away Team Elo Points,Home Team Elo Probability,Away Team Elo Probability,Margin Prediction,Prediction
+1246,4,2019,3,10,12,Lions      ,10,Jaguares   ,1602.09,1511.17,75.01%,24.99%,10,Robs Elo predicts Lions       (home) to beat Jaguares    (away) with a probability of 75.01% by a margin of 10
+1247,4,2019,3,10,3,Bulls      ,15,Sharks     ,1498.47,1527.93,60.01%,39.99%,4,Robs Elo predicts Bulls       (home) to beat Sharks      (away) with a probability of 60.01% by a margin of 4
+1248,5,2019,3,15,5,Chiefs     ,9,Hurricanes ,1594.31,1703.37,48.70%,51.30%,1,Robs Elo predicts Hurricanes  (away) to beat Chiefs      (home) with a probability of 51.30% by a margin of 1
+1249,5,2019,3,15,2,Brumbies   ,18,Waratahs   ,1511.94,1507.07,64.65%,35.35%,6,Robs Elo predicts Brumbies    (home) to beat Waratahs    (away) with a probability of 64.65% by a margin of 6
+1250,5,2019,3,16,16,Stormers   ,10,Jaguares   ,1507.61,1511.17,63.53%,36.47%,5,Robs Elo predicts Stormers    (home) to beat Jaguares    (away) with a probability of 63.53% by a margin of 5
+1251,5,2019,3,16,17,Sunwolves  ,14,Reds       ,1296.12,1343.99,57.45%,42.55%,3,Robs Elo predicts Sunwolves   (home) to beat Reds        (away) with a probability of 57.45% by a margin of 3
+1252,5,2019,3,16,8,Highlanders,6,Crusaders  ,1611.82,1846.52,31.53%,68.47%,9,Robs Elo predicts Crusaders   (away) to beat Highlanders (home) with a probability of 68.47% by a margin of 9
+1253,5,2019,3,17,12,Lions      ,13,Rebels     ,1602.09,1423.48,83.25%,16.75%,14,Robs Elo predicts Lions       (home) to beat Rebels      (away) with a probability of 83.25% by a margin of 14
+1254,6,2019,3,22,1,Blues      ,8,Highlanders,1404.63,1611.82,35.05%,64.95%,7,Robs Elo predicts Highlanders (away) to beat Blues       (home) with a probability of 64.95% by a margin of 7
+1255,6,2019,3,23,9,Hurricanes ,16,Stormers   ,1703.37,1507.61,84.59%,15.41%,14,Robs Elo predicts Hurricanes  (home) to beat Stormers    (away) with a probability of 84.59% by a margin of 14
+1256,6,2019,3,23,18,Waratahs   ,6,Crusaders  ,1507.07,1846.52,20.13%,79.87%,14,Robs Elo predicts Crusaders   (away) to beat Waratahs    (home) with a probability of 79.87% by a margin of 14
+1257,6,2019,3,23,17,Sunwolves  ,12,Lions      ,1296.12,1602.09,23.40%,76.60%,12,Robs Elo predicts Lions       (away) to beat Sunwolves   (home) with a probability of 76.60% by a margin of 12
+1258,6,2019,3,24,3,Bulls      ,5,Chiefs     ,1498.47,1594.31,50.60%,49.40%,0,Robs Elo predicts Bulls       (home) to beat Chiefs      (away) with a probability of 50.60% by a margin of 0
+1259,6,2019,3,24,15,Sharks     ,13,Rebels     ,1527.93,1423.48,76.44%,23.56%,11,Robs Elo predicts Sharks      (home) to beat Rebels      (away) with a probability of 76.44% by a margin of 11
+1260,6,2019,3,24,14,Reds       ,2,Brumbies   ,1343.99,1511.94,40.34%,59.66%,5,Robs Elo predicts Brumbies    (away) to beat Reds        (home) with a probability of 59.66% by a margin of 5
+1261,7,2019,3,29,9,Hurricanes ,6,Crusaders  ,1703.37,1846.52,43.82%,56.18%,3,Robs Elo predicts Crusaders   (away) to beat Hurricanes  (home) with a probability of 56.18% by a margin of 3
+1262,7,2019,3,29,18,Waratahs   ,17,Sunwolves  ,1507.07,1296.12,85.69%,14.31%,15,Robs Elo predicts Waratahs    (home) to beat Sunwolves   (away) with a probability of 85.69% by a margin of 15
+1263,7,2019,3,30,1,Blues      ,16,Stormers   ,1404.63,1507.61,49.57%,50.43%,1,Robs Elo predicts Stormers    (away) to beat Blues       (home) with a probability of 50.43% by a margin of 1
+1264,7,2019,3,30,14,Reds       ,13,Rebels     ,1343.99,1423.48,52.95%,47.05%,1,Robs Elo predicts Reds        (home) to beat Rebels      (away) with a probability of 52.95% by a margin of 1
+1265,7,2019,3,31,15,Sharks     ,3,Bulls      ,1527.93,1498.47,67.81%,32.19%,7,Robs Elo predicts Sharks      (home) to beat Bulls       (away) with a probability of 67.81% by a margin of 7
+1266,7,2019,3,31,10,Jaguares   ,5,Chiefs     ,1511.17,1594.31,52.43%,47.57%,0,Robs Elo predicts Jaguares    (home) to beat Chiefs      (away) with a probability of 52.43% by a margin of 0
+1267,8,2019,4,5,8,Highlanders,9,Hurricanes ,1611.82,1703.37,51.22%,48.78%,0,Robs Elo predicts Highlanders (home) to beat Hurricanes  (away) with a probability of 51.22% by a margin of 0
+1268,8,2019,4,5,14,Reds       ,16,Stormers   ,1343.99,1507.61,40.94%,59.06%,5,Robs Elo predicts Stormers    (away) to beat Reds        (home) with a probability of 59.06% by a margin of 5
+1269,8,2019,4,6,12,Lions      ,15,Sharks     ,1602.09,1527.93,73.16%,26.84%,9,Robs Elo predicts Lions       (home) to beat Sharks      (away) with a probability of 73.16% by a margin of 9
+1270,8,2019,4,6,6,Crusaders  ,2,Brumbies   ,1846.52,1511.94,92.43%,7.57%,18,Robs Elo predicts Crusaders   (home) to beat Brumbies    (away) with a probability of 92.43% by a margin of 18
+1271,8,2019,4,6,1,Blues      ,18,Waratahs   ,1404.63,1507.07,49.65%,50.35%,1,Robs Elo predicts Waratahs    (away) to beat Blues       (home) with a probability of 50.35% by a margin of 1
+1272,8,2019,4,6,13,Rebels     ,17,Sunwolves  ,1423.48,1296.12,78.73%,21.27%,12,Robs Elo predicts Rebels      (home) to beat Sunwolves   (away) with a probability of 78.73% by a margin of 12
+1273,8,2019,4,7,3,Bulls      ,10,Jaguares   ,1498.47,1511.17,62.30%,37.70%,5,Robs Elo predicts Bulls       (home) to beat Jaguares    (away) with a probability of 62.30% by a margin of 5
+1274,9,2019,4,12,6,Crusaders  ,8,Highlanders,1846.52,1611.82,87.29%,12.71%,16,Robs Elo predicts Crusaders   (home) to beat Highlanders (away) with a probability of 87.29% by a margin of 16
+1275,9,2019,4,12,13,Rebels     ,16,Stormers   ,1423.48,1507.61,52.28%,47.72%,0,Robs Elo predicts Rebels      (home) to beat Stormers    (away) with a probability of 52.28% by a margin of 0
+1276,9,2019,4,13,5,Chiefs     ,1,Blues      ,1594.31,1404.63,84.12%,15.88%,14,Robs Elo predicts Chiefs      (home) to beat Blues       (away) with a probability of 84.12% by a margin of 14
+1277,9,2019,4,13,2,Brumbies   ,12,Lions      ,1511.94,1602.09,51.42%,48.58%,0,Robs Elo predicts Brumbies    (home) to beat Lions       (away) with a probability of 51.42% by a margin of 0
+1278,9,2019,4,13,15,Sharks     ,10,Jaguares   ,1527.93,1511.17,66.20%,33.80%,6,Robs Elo predicts Sharks      (home) to beat Jaguares    (away) with a probability of 66.20% by a margin of 6
+1279,9,2019,4,14,3,Bulls      ,14,Reds       ,1498.47,1343.99,81.23%,18.77%,13,Robs Elo predicts Bulls       (home) to beat Reds        (away) with a probability of 81.23% by a margin of 13
+1280,10,2019,4,19,5,Chiefs     ,12,Lions      ,1594.31,1602.09,62.97%,37.03%,5,Robs Elo predicts Chiefs      (home) to beat Lions       (away) with a probability of 62.97% by a margin of 5
+1281,10,2019,4,19,17,Sunwolves  ,9,Hurricanes ,1296.12,1703.37,14.57%,85.43%,16,Robs Elo predicts Hurricanes  (away) to beat Sunwolves   (home) with a probability of 85.43% by a margin of 16
+1282,10,2019,4,19,15,Sharks     ,14,Reds       ,1527.93,1343.99,83.68%,16.32%,14,Robs Elo predicts Sharks      (home) to beat Reds        (away) with a probability of 83.68% by a margin of 14
+1283,10,2019,4,20,8,Highlanders,1,Blues      ,1611.82,1404.63,85.43%,14.57%,15,Robs Elo predicts Highlanders (home) to beat Blues       (away) with a probability of 85.43% by a margin of 15
+1284,10,2019,4,20,18,Waratahs   ,13,Rebels     ,1507.07,1423.48,74.21%,25.79%,10,Robs Elo predicts Waratahs    (home) to beat Rebels      (away) with a probability of 74.21% by a margin of 10
+1285,10,2019,4,20,16,Stormers   ,2,Brumbies   ,1507.61,1511.94,63.43%,36.57%,5,Robs Elo predicts Stormers    (home) to beat Brumbies    (away) with a probability of 63.43% by a margin of 5
+1286,11,2019,4,26,6,Crusaders  ,12,Lions      ,1846.52,1602.09,87.90%,12.10%,16,Robs Elo predicts Crusaders   (home) to beat Lions       (away) with a probability of 87.90% by a margin of 16
+1287,11,2019,4,26,17,Sunwolves  ,8,Highlanders,1296.12,1611.82,22.41%,77.59%,13,Robs Elo predicts Highlanders (away) to beat Sunwolves   (home) with a probability of 77.59% by a margin of 13
+1288,11,2019,4,27,9,Hurricanes ,5,Chiefs     ,1703.37,1594.31,76.91%,23.09%,11,Robs Elo predicts Hurricanes  (home) to beat Chiefs      (away) with a probability of 76.91% by a margin of 11
+1289,11,2019,4,27,18,Waratahs   ,15,Sharks     ,1507.07,1527.93,61.20%,38.80%,4,Robs Elo predicts Waratahs    (home) to beat Sharks      (away) with a probability of 61.20% by a margin of 4
+1290,11,2019,4,27,16,Stormers   ,3,Bulls      ,1507.61,1498.47,65.21%,34.79%,6,Robs Elo predicts Stormers    (home) to beat Bulls       (away) with a probability of 65.21% by a margin of 6
+1291,11,2019,4,28,10,Jaguares   ,2,Brumbies   ,1511.17,1511.94,63.90%,36.10%,5,Robs Elo predicts Jaguares    (home) to beat Brumbies    (away) with a probability of 63.90% by a margin of 5
+1292,12,2019,5,3,6,Crusaders  ,15,Sharks     ,1846.52,1527.93,91.76%,8.24%,17,Robs Elo predicts Crusaders   (home) to beat Sharks      (away) with a probability of 91.76% by a margin of 17
+1293,12,2019,5,3,14,Reds       ,17,Sunwolves  ,1343.99,1296.12,70.08%,29.92%,8,Robs Elo predicts Reds        (home) to beat Sunwolves   (away) with a probability of 70.08% by a margin of 8
+1294,12,2019,5,4,9,Hurricanes ,13,Rebels     ,1703.37,1423.48,89.91%,10.09%,17,Robs Elo predicts Hurricanes  (home) to beat Rebels      (away) with a probability of 89.91% by a margin of 17
+1295,12,2019,5,4,8,Highlanders,5,Chiefs     ,1611.82,1594.31,66.30%,33.70%,6,Robs Elo predicts Highlanders (home) to beat Chiefs      (away) with a probability of 66.30% by a margin of 6
+1296,12,2019,5,4,2,Brumbies   ,1,Blues      ,1511.94,1404.63,76.73%,23.27%,11,Robs Elo predicts Brumbies    (home) to beat Blues       (away) with a probability of 76.73% by a margin of 11
+1297,12,2019,5,4,3,Bulls      ,18,Waratahs   ,1498.47,1507.07,62.86%,37.14%,5,Robs Elo predicts Bulls       (home) to beat Waratahs    (away) with a probability of 62.86% by a margin of 5
+1298,12,2019,5,5,10,Jaguares   ,16,Stormers   ,1511.17,1507.61,64.48%,35.52%,6,Robs Elo predicts Jaguares    (home) to beat Stormers    (away) with a probability of 64.48% by a margin of 6
+1299,13,2019,5,10,1,Blues      ,9,Hurricanes ,1404.63,1703.37,24.16%,75.84%,12,Robs Elo predicts Hurricanes  (away) to beat Blues       (home) with a probability of 75.84% by a margin of 12
+1300,13,2019,5,10,13,Rebels     ,14,Reds       ,1423.48,1343.99,73.75%,26.25%,10,Robs Elo predicts Rebels      (home) to beat Reds        (away) with a probability of 73.75% by a margin of 10
+1301,13,2019,5,11,3,Bulls      ,6,Crusaders  ,1498.47,1846.52,19.34%,80.66%,14,Robs Elo predicts Crusaders   (away) to beat Bulls       (home) with a probability of 80.66% by a margin of 14
+1302,13,2019,5,11,8,Highlanders,10,Jaguares   ,1611.82,1511.17,76.04%,23.96%,11,Robs Elo predicts Highlanders (home) to beat Jaguares    (away) with a probability of 76.04% by a margin of 11
+1303,13,2019,5,11,5,Chiefs     ,15,Sharks     ,1594.31,1527.93,72.27%,27.73%,9,Robs Elo predicts Chiefs      (home) to beat Sharks      (away) with a probability of 72.27% by a margin of 9
+1304,13,2019,5,11,12,Lions      ,18,Waratahs   ,1602.09,1507.07,75.45%,24.55%,10,Robs Elo predicts Lions       (home) to beat Waratahs    (away) with a probability of 75.45% by a margin of 10
+1305,13,2019,5,12,2,Brumbies   ,17,Sunwolves  ,1511.94,1296.12,86.03%,13.97%,15,Robs Elo predicts Brumbies    (home) to beat Sunwolves   (away) with a probability of 86.03% by a margin of 15
+1306,14,2019,5,17,9,Hurricanes ,10,Jaguares   ,1703.37,1511.17,84.32%,15.68%,14,Robs Elo predicts Hurricanes  (home) to beat Jaguares    (away) with a probability of 84.32% by a margin of 14
+1307,14,2019,5,17,13,Rebels     ,3,Bulls      ,1423.48,1498.47,53.59%,46.41%,1,Robs Elo predicts Rebels      (home) to beat Bulls       (away) with a probability of 53.59% by a margin of 1
+1308,14,2019,5,18,1,Blues      ,5,Chiefs     ,1404.63,1594.31,37.37%,62.63%,6,Robs Elo predicts Chiefs      (away) to beat Blues       (home) with a probability of 62.63% by a margin of 6
+1309,14,2019,5,18,14,Reds       ,18,Waratahs   ,1343.99,1507.07,41.02%,58.98%,5,Robs Elo predicts Waratahs    (away) to beat Reds        (home) with a probability of 58.98% by a margin of 5
+1310,14,2019,5,18,12,Lions      ,8,Highlanders,1602.09,1611.82,62.71%,37.29%,5,Robs Elo predicts Lions       (home) to beat Highlanders (away) with a probability of 62.71% by a margin of 5
+1311,14,2019,5,19,16,Stormers   ,6,Crusaders  ,1507.61,1846.52,20.18%,79.82%,14,Robs Elo predicts Crusaders   (away) to beat Stormers    (home) with a probability of 79.82% by a margin of 14
+1312,15,2019,5,24,5,Chiefs     ,14,Reds       ,1594.31,1343.99,88.25%,11.75%,16,Robs Elo predicts Chiefs      (home) to beat Reds        (away) with a probability of 88.25% by a margin of 16
+1313,15,2019,5,24,2,Brumbies   ,3,Bulls      ,1511.94,1498.47,65.77%,34.23%,6,Robs Elo predicts Brumbies    (home) to beat Bulls       (away) with a probability of 65.77% by a margin of 6
+1314,15,2019,5,25,17,Sunwolves  ,13,Rebels     ,1296.12,1423.48,46.07%,53.93%,2,Robs Elo predicts Rebels      (away) to beat Sunwolves   (home) with a probability of 53.93% by a margin of 2
+1315,15,2019,5,25,6,Crusaders  ,1,Blues      ,1846.52,1404.63,95.77%,4.23%,19,Robs Elo predicts Crusaders   (home) to beat Blues       (away) with a probability of 95.77% by a margin of 19
+1316,15,2019,5,25,18,Waratahs   ,10,Jaguares   ,1507.07,1511.17,63.46%,36.54%,5,Robs Elo predicts Waratahs    (home) to beat Jaguares    (away) with a probability of 63.46% by a margin of 5
+1317,15,2019,5,25,16,Stormers   ,8,Highlanders,1507.61,1611.82,49.39%,50.61%,1,Robs Elo predicts Highlanders (away) to beat Stormers    (home) with a probability of 50.61% by a margin of 1
+1318,15,2019,5,26,15,Sharks     ,12,Lions      ,1527.93,1602.09,53.71%,46.29%,1,Robs Elo predicts Sharks      (home) to beat Lions       (away) with a probability of 53.71% by a margin of 1
+1319,16,2019,5,31,1,Blues      ,3,Bulls      ,1404.63,1498.47,50.89%,49.11%,0,Robs Elo predicts Blues       (home) to beat Bulls       (away) with a probability of 50.89% by a margin of 0
+1320,16,2019,5,31,13,Rebels     ,18,Waratahs   ,1423.48,1507.07,52.36%,47.64%,0,Robs Elo predicts Rebels      (home) to beat Waratahs    (away) with a probability of 52.36% by a margin of 0
+1321,16,2019,6,1,17,Sunwolves  ,2,Brumbies   ,1296.12,1511.94,33.92%,66.08%,8,Robs Elo predicts Brumbies    (away) to beat Sunwolves   (home) with a probability of 66.08% by a margin of 8
+1322,16,2019,6,1,5,Chiefs     ,6,Crusaders  ,1594.31,1846.52,29.40%,70.60%,10,Robs Elo predicts Crusaders   (away) to beat Chiefs      (home) with a probability of 70.60% by a margin of 10
+1323,16,2019,6,1,14,Reds       ,10,Jaguares   ,1343.99,1511.17,40.45%,59.55%,5,Robs Elo predicts Jaguares    (away) to beat Reds        (home) with a probability of 59.55% by a margin of 5
+1324,16,2019,6,1,15,Sharks     ,9,Hurricanes ,1527.93,1703.37,39.31%,60.69%,5,Robs Elo predicts Hurricanes  (away) to beat Sharks      (home) with a probability of 60.69% by a margin of 5
+1325,16,2019,6,2,12,Lions      ,16,Stormers   ,1602.09,1507.61,75.39%,24.61%,10,Robs Elo predicts Lions       (home) to beat Stormers    (away) with a probability of 75.39% by a margin of 10
+1326,17,2019,6,7,8,Highlanders,3,Bulls      ,1611.82,1498.47,77.35%,22.65%,11,Robs Elo predicts Highlanders (home) to beat Bulls       (away) with a probability of 77.35% by a margin of 11
+1327,17,2019,6,7,14,Reds       ,1,Blues      ,1343.99,1404.63,55.64%,44.36%,2,Robs Elo predicts Reds        (home) to beat Blues       (away) with a probability of 55.64% by a margin of 2
+1328,17,2019,6,8,6,Crusaders  ,13,Rebels     ,1846.52,1423.48,95.31%,4.69%,19,Robs Elo predicts Crusaders   (home) to beat Rebels      (away) with a probability of 95.31% by a margin of 19
+1329,17,2019,6,8,18,Waratahs   ,2,Brumbies   ,1507.07,1511.94,63.36%,36.64%,5,Robs Elo predicts Waratahs    (home) to beat Brumbies    (away) with a probability of 63.36% by a margin of 5
+1330,17,2019,6,8,12,Lions      ,9,Hurricanes ,1602.09,1703.37,49.82%,50.18%,1,Robs Elo predicts Hurricanes  (away) to beat Lions       (home) with a probability of 50.18% by a margin of 1
+1331,17,2019,6,9,16,Stormers   ,17,Sunwolves  ,1507.61,1296.12,85.73%,14.27%,15,Robs Elo predicts Stormers    (home) to beat Sunwolves   (away) with a probability of 85.73% by a margin of 15
+1332,17,2019,6,9,10,Jaguares   ,15,Sharks     ,1511.17,1527.93,61.76%,38.24%,4,Robs Elo predicts Jaguares    (home) to beat Sharks      (away) with a probability of 61.76% by a margin of 4
+1333,18,2019,6,14,8,Highlanders,18,Waratahs   ,1611.82,1507.07,76.47%,23.53%,11,Robs Elo predicts Highlanders (home) to beat Waratahs    (away) with a probability of 76.47% by a margin of 11
+1334,18,2019,6,14,13,Rebels     ,5,Chiefs     ,1423.48,1594.31,39.95%,60.05%,5,Robs Elo predicts Chiefs      (away) to beat Rebels      (home) with a probability of 60.05% by a margin of 5
+1335,18,2019,6,15,10,Jaguares   ,17,Sunwolves  ,1511.17,1296.12,85.98%,14.02%,15,Robs Elo predicts Jaguares    (home) to beat Sunwolves   (away) with a probability of 85.98% by a margin of 15
+1336,18,2019,6,15,9,Hurricanes ,1,Blues      ,1703.37,1404.63,90.85%,9.15%,17,Robs Elo predicts Hurricanes  (home) to beat Blues       (away) with a probability of 90.85% by a margin of 17
+1337,18,2019,6,15,2,Brumbies   ,14,Reds       ,1511.94,1343.99,82.38%,17.62%,13,Robs Elo predicts Brumbies    (home) to beat Reds        (away) with a probability of 82.38% by a margin of 13
+1338,18,2019,6,15,16,Stormers   ,15,Sharks     ,1507.61,1527.93,61.27%,38.73%,4,Robs Elo predicts Stormers    (home) to beat Sharks      (away) with a probability of 61.27% by a margin of 4
+1339,18,2019,6,16,3,Bulls      ,12,Lions      ,1498.47,1602.09,49.48%,50.52%,1,Robs Elo predicts Lions       (away) to beat Bulls       (home) with a probability of 50.52% by a margin of 1
