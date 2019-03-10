@@ -195,6 +195,6 @@ Australian ELO Sports Prediction Model
 
 # Predictions 
 
-[2018](./Predictions2018)
+[2018](https://github.com/robmakepeace/AustralianElo/blob/master/Predictions2018)
 
-[2019](./Predictions2019)
+[2019](https://github.com/robmakepeace/AustralianElo/blob/master/Predictions2019)
