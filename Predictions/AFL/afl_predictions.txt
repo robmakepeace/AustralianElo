@@ -2,14 +2,203 @@
 Predictions
 ******************************
 
-Importing ..\RawData\AFL\AFL_future.txt
-Robs Elo predicts 	Richmond             (away) to beat 	Adelaide             (home) with a probability of 	56.01%
-Robs Elo predicts 	St Kilda             (away) to beat 	North Melbourne      (home) with a probability of 	56.85%
-Robs Elo predicts 	Carlton              (home) to beat 	Gold Coast           (away) with a probability of 	68.35%
-Robs Elo predicts 	GWS Giants           (away) to beat 	Collingwood          (home) with a probability of 	60.06%
-Robs Elo predicts 	Melbourne            (away) to beat 	Brisbane             (home) with a probability of 	69.33%
-Robs Elo predicts 	Essendon             (away) to beat 	Fremantle            (home) with a probability of 	70.33%
-Robs Elo predicts 	West Coast           (away) to beat 	Western Bulldogs     (home) with a probability of 	55.39%
-Robs Elo predicts 	Sydney               (home) to beat 	Port Adelaide        (away) with a probability of 	72.80%
-Robs Elo predicts 	Geelong              (home) to beat 	Hawthorn             (away) with a probability of 	78.79%
-Exporting ..\Predictions\AFL\AFL_future_predictions.csv.txt
+Importing ..\RawData\AFL\afl_future.csv
+Robs Elo predicts 	Richmond             (away) to beat 	Carlton              (home) with a probability of 	91.45%by a margin of 43
+Robs Elo predicts 	Collingwood          (home) to beat 	Geelong              (away) with a probability of 	81.97%by a margin of 26
+Robs Elo predicts 	Melbourne            (home) to beat 	Port Adelaide        (away) with a probability of 	86.02%by a margin of 30
+Robs Elo predicts 	Adelaide             (home) to beat 	Hawthorn             (away) with a probability of 	64.76%by a margin of 10
+Robs Elo predicts 	Western Bulldogs     (home) to beat 	Sydney               (away) with a probability of 	53.74%by a margin of 0
+Robs Elo predicts 	West Coast           (away) to beat 	Brisbane             (home) with a probability of 	77.43%by a margin of 29
+Robs Elo predicts 	St Kilda             (home) to beat 	Gold Coast           (away) with a probability of 	71.66%by a margin of 16
+Robs Elo predicts 	GWS Giants           (home) to beat 	Essendon             (away) with a probability of 	62.75%by a margin of 8
+Robs Elo predicts 	North Melbourne      (away) to beat 	Fremantle            (home) with a probability of 	58.99%by a margin of 12
+Robs Elo predicts 	Richmond             (home) to beat 	Collingwood          (away) with a probability of 	68.19%by a margin of 13
+Robs Elo predicts 	Sydney               (home) to beat 	Adelaide             (away) with a probability of 	63.53%by a margin of 9
+Robs Elo predicts 	Essendon             (home) to beat 	St Kilda             (away) with a probability of 	94.79%by a margin of 38
+Robs Elo predicts 	Port Adelaide        (home) to beat 	Carlton              (away) with a probability of 	91.03%by a margin of 34
+Robs Elo predicts 	Geelong              (home) to beat 	Melbourne            (away) with a probability of 	52.57%by a margin of 2
+Robs Elo predicts 	West Coast           (home) to beat 	GWS Giants           (away) with a probability of 	79.01%by a margin of 23
+Robs Elo predicts 	North Melbourne      (home) to beat 	Brisbane             (away) with a probability of 	81.42%by a margin of 25
+Robs Elo predicts 	Hawthorn             (home) to beat 	Western Bulldogs     (away) with a probability of 	81.00%by a margin of 25
+Robs Elo predicts 	Fremantle            (away) to beat 	Gold Coast           (home) with a probability of 	50.77%by a margin of 5
+Robs Elo predicts 	Adelaide             (home) to beat 	Geelong              (away) with a probability of 	64.70%by a margin of 10
+Robs Elo predicts 	Melbourne            (home) to beat 	Essendon             (away) with a probability of 	71.40%by a margin of 16
+Robs Elo predicts 	Sydney               (away) to beat 	Carlton              (home) with a probability of 	77.80%by a margin of 30
+Robs Elo predicts 	Richmond             (away) to beat 	GWS Giants           (home) with a probability of 	50.25%by a margin of 4
+Robs Elo predicts 	Brisbane             (home) to beat 	Port Adelaide        (away) with a probability of 	53.36%by a margin of 1
+Robs Elo predicts 	Collingwood          (home) to beat 	West Coast           (away) with a probability of 	66.49%by a margin of 11
+Robs Elo predicts 	Western Bulldogs     (home) to beat 	Gold Coast           (away) with a probability of 	88.22%by a margin of 32
+Robs Elo predicts 	Hawthorn             (home) to beat 	North Melbourne      (away) with a probability of 	73.03%by a margin of 17
+Robs Elo predicts 	Fremantle            (home) to beat 	St Kilda             (away) with a probability of 	76.41%by a margin of 21
+Robs Elo predicts 	Melbourne            (away) to beat 	Sydney               (home) with a probability of 	52.94%by a margin of 7
+Robs Elo predicts 	Collingwood          (home) to beat 	Western Bulldogs     (away) with a probability of 	90.68%by a margin of 34
+Robs Elo predicts 	Geelong              (home) to beat 	GWS Giants           (away) with a probability of 	62.16%by a margin of 7
+Robs Elo predicts 	Essendon             (home) to beat 	Brisbane             (away) with a probability of 	89.56%by a margin of 33
+Robs Elo predicts 	Richmond             (away) to beat 	Port Adelaide        (home) with a probability of 	67.76%by a margin of 20
+Robs Elo predicts 	North Melbourne      (home) to beat 	Adelaide             (away) with a probability of 	61.48%by a margin of 7
+Robs Elo predicts 	West Coast           (home) to beat 	Fremantle            (away) with a probability of 	94.69%by a margin of 38
+Robs Elo predicts 	Gold Coast           (home) to beat 	Carlton              (away) with a probability of 	68.41%by a margin of 13
+Robs Elo predicts 	Hawthorn             (away) to beat 	St Kilda             (home) with a probability of 	76.01%by a margin of 28
+Robs Elo predicts 	Collingwood          (away) to beat 	Brisbane             (home) with a probability of 	77.33%by a margin of 29
+Robs Elo predicts 	North Melbourne      (home) to beat 	Essendon             (away) with a probability of 	50.48%by a margin of 4
+Robs Elo predicts 	West Coast           (home) to beat 	Port Adelaide        (away) with a probability of 	88.68%by a margin of 32
+Robs Elo predicts 	GWS Giants           (home) to beat 	Fremantle            (away) with a probability of 	90.44%by a margin of 34
+Robs Elo predicts 	Melbourne            (home) to beat 	St Kilda             (away) with a probability of 	95.79%by a margin of 39
+Robs Elo predicts 	Richmond             (home) to beat 	Sydney               (away) with a probability of 	85.89%by a margin of 29
+Robs Elo predicts 	Western Bulldogs     (home) to beat 	Carlton              (away) with a probability of 	89.04%by a margin of 32
+Robs Elo predicts 	Adelaide             (home) to beat 	Gold Coast           (away) with a probability of 	93.64%by a margin of 37
+Robs Elo predicts 	Hawthorn             (home) to beat 	Geelong              (away) with a probability of 	66.56%by a margin of 11
+Robs Elo predicts 	Richmond             (home) to beat 	Melbourne            (away) with a probability of 	73.07%by a margin of 17
+Robs Elo predicts 	Essendon             (home) to beat 	Collingwood          (away) with a probability of 	55.75%by a margin of 1
+Robs Elo predicts 	Port Adelaide        (home) to beat 	North Melbourne      (away) with a probability of 	61.31%by a margin of 7
+Robs Elo predicts 	Brisbane             (away) to beat 	Gold Coast           (home) with a probability of 	57.40%by a margin of 11
+Robs Elo predicts 	Adelaide             (away) to beat 	St Kilda             (home) with a probability of 	74.48%by a margin of 27
+Robs Elo predicts 	Sydney               (home) to beat 	GWS Giants           (away) with a probability of 	56.85%by a margin of 2
+Robs Elo predicts 	Fremantle            (home) to beat 	Western Bulldogs     (away) with a probability of 	52.25%by a margin of 2
+Robs Elo predicts 	Hawthorn             (home) to beat 	Carlton              (away) with a probability of 	94.55%by a margin of 37
+Robs Elo predicts 	West Coast           (away) to beat 	Geelong              (home) with a probability of 	53.45%by a margin of 7
+Robs Elo predicts 	Collingwood          (home) to beat 	Port Adelaide        (away) with a probability of 	88.62%by a margin of 32
+Robs Elo predicts 	Melbourne            (home) to beat 	Hawthorn             (away) with a probability of 	78.27%by a margin of 22
+Robs Elo predicts 	GWS Giants           (home) to beat 	St Kilda             (away) with a probability of 	93.89%by a margin of 37
+Robs Elo predicts 	Sydney               (away) to beat 	Brisbane             (home) with a probability of 	54.57%by a margin of 8
+Robs Elo predicts 	Richmond             (away) to beat 	Western Bulldogs     (home) with a probability of 	72.43%by a margin of 25
+Robs Elo predicts 	West Coast           (home) to beat 	Gold Coast           (away) with a probability of 	97.35%by a margin of 40
+Robs Elo predicts 	North Melbourne      (away) to beat 	Carlton              (home) with a probability of 	76.26%by a margin of 28
+Robs Elo predicts 	Geelong              (home) to beat 	Essendon             (away) with a probability of 	58.11%by a margin of 4
+Robs Elo predicts 	Adelaide             (home) to beat 	Fremantle            (away) with a probability of 	87.74%by a margin of 31
+Robs Elo predicts 	Sydney               (home) to beat 	Essendon             (away) with a probability of 	52.66%by a margin of 1
+Robs Elo predicts 	Western Bulldogs     (home) to beat 	Brisbane             (away) with a probability of 	73.57%by a margin of 18
+Robs Elo predicts 	Collingwood          (away) to beat 	Carlton              (home) with a probability of 	90.87%by a margin of 42
+Robs Elo predicts 	Melbourne            (away) to beat 	Gold Coast           (home) with a probability of 	87.88%by a margin of 39
+Robs Elo predicts 	West Coast           (away) to beat 	St Kilda             (home) with a probability of 	87.92%by a margin of 39
+Robs Elo predicts 	Port Adelaide        (home) to beat 	Adelaide             (away) with a probability of 	55.90%by a margin of 2
+Robs Elo predicts 	North Melbourne      (home) to beat 	Geelong              (away) with a probability of 	59.46%by a margin of 5
+Robs Elo predicts 	Hawthorn             (home) to beat 	GWS Giants           (away) with a probability of 	62.10%by a margin of 7
+Robs Elo predicts 	Richmond             (away) to beat 	Fremantle            (home) with a probability of 	82.73%by a margin of 34
+Robs Elo predicts 	West Coast           (home) to beat 	Melbourne            (away) with a probability of 	71.74%by a margin of 16
+Robs Elo predicts 	Collingwood          (home) to beat 	St Kilda             (away) with a probability of 	96.65%by a margin of 39
+Robs Elo predicts 	Adelaide             (away) to beat 	Brisbane             (home) with a probability of 	57.91%by a margin of 11
+Robs Elo predicts 	Geelong              (home) to beat 	Western Bulldogs     (away) with a probability of 	81.03%by a margin of 25
+Robs Elo predicts 	Essendon             (home) to beat 	Fremantle            (away) with a probability of 	91.81%by a margin of 35
+Robs Elo predicts 	North Melbourne      (home) to beat 	Sydney               (away) with a probability of 	64.65%by a margin of 10
+Robs Elo predicts 	Port Adelaide        (home) to beat 	Gold Coast           (away) with a probability of 	90.34%by a margin of 34
+Robs Elo predicts 	Richmond             (home) to beat 	Hawthorn             (away) with a probability of 	83.04%by a margin of 27
+Robs Elo predicts 	GWS Giants           (home) to beat 	Carlton              (away) with a probability of 	95.48%by a margin of 38
+Robs Elo predicts 	Collingwood          (away) to beat 	Sydney               (home) with a probability of 	58.74%by a margin of 12
+Robs Elo predicts 	Hawthorn             (home) to beat 	Port Adelaide        (away) with a probability of 	77.32%by a margin of 21
+Robs Elo predicts 	Western Bulldogs     (home) to beat 	North Melbourne      (away) with a probability of 	55.90%by a margin of 2
+Robs Elo predicts 	West Coast           (away) to beat 	Adelaide             (home) with a probability of 	55.55%by a margin of 9
+Robs Elo predicts 	Geelong              (away) to beat 	Gold Coast           (home) with a probability of 	80.11%by a margin of 32
+Robs Elo predicts 	Richmond             (home) to beat 	Essendon             (away) with a probability of 	77.25%by a margin of 21
+Robs Elo predicts 	Melbourne            (home) to beat 	GWS Giants           (away) with a probability of 	74.73%by a margin of 19
+Robs Elo predicts 	St Kilda             (home) to beat 	Carlton              (away) with a probability of 	73.29%by a margin of 18
+Robs Elo predicts 	Fremantle            (home) to beat 	Brisbane             (away) with a probability of 	60.42%by a margin of 6
+Robs Elo predicts 	Richmond             (away) to beat 	North Melbourne      (home) with a probability of 	62.53%by a margin of 16
+Robs Elo predicts 	Collingwood          (home) to beat 	Fremantle            (away) with a probability of 	94.67%by a margin of 38
+Robs Elo predicts 	GWS Giants           (home) to beat 	Gold Coast           (away) with a probability of 	95.11%by a margin of 38
+Robs Elo predicts 	Geelong              (home) to beat 	Sydney               (away) with a probability of 	71.33%by a margin of 16
+Robs Elo predicts 	Hawthorn             (away) to beat 	Brisbane             (home) with a probability of 	59.90%by a margin of 13
+Robs Elo predicts 	Melbourne            (home) to beat 	Adelaide             (away) with a probability of 	79.63%by a margin of 24
+Robs Elo predicts 	Port Adelaide        (away) to beat 	St Kilda             (home) with a probability of 	64.96%by a margin of 18
+Robs Elo predicts 	Essendon             (home) to beat 	Carlton              (away) with a probability of 	96.16%by a margin of 39
+Robs Elo predicts 	West Coast           (home) to beat 	Western Bulldogs     (away) with a probability of 	90.73%by a margin of 34
+Robs Elo predicts 	Richmond             (home) to beat 	Geelong              (away) with a probability of 	83.00%by a margin of 27
+Robs Elo predicts 	Brisbane             (away) to beat 	Carlton              (home) with a probability of 	59.39%by a margin of 13
+Robs Elo predicts 	North Melbourne      (away) to beat 	Gold Coast           (home) with a probability of 	74.74%by a margin of 27
+Robs Elo predicts 	Adelaide             (home) to beat 	GWS Giants           (away) with a probability of 	60.15%by a margin of 5
+Robs Elo predicts 	West Coast           (away) to beat 	Sydney               (home) with a probability of 	58.88%by a margin of 12
+Robs Elo predicts 	Collingwood          (home) to beat 	Melbourne            (away) with a probability of 	71.63%by a margin of 16
+Robs Elo predicts 	Richmond             (away) to beat 	Adelaide             (home) with a probability of 	57.18%by a margin of 11
+Robs Elo predicts 	Essendon             (home) to beat 	Hawthorn             (away) with a probability of 	74.21%by a margin of 19
+Robs Elo predicts 	Gold Coast           (home) to beat 	St Kilda             (away) with a probability of 	61.15%by a margin of 6
+Robs Elo predicts 	Port Adelaide        (away) to beat 	Fremantle            (home) with a probability of 	53.32%by a margin of 7
+Robs Elo predicts 	Western Bulldogs     (away) to beat 	Carlton              (home) with a probability of 	67.11%by a margin of 20
+Robs Elo predicts 	North Melbourne      (home) to beat 	GWS Giants           (away) with a probability of 	54.70%by a margin of 0
+Robs Elo predicts 	West Coast           (home) to beat 	Essendon             (away) with a probability of 	76.06%by a margin of 20
+Robs Elo predicts 	Sydney               (home) to beat 	Hawthorn             (away) with a probability of 	61.60%by a margin of 7
+Robs Elo predicts 	Melbourne            (home) to beat 	Fremantle            (away) with a probability of 	93.34%by a margin of 36
+Robs Elo predicts 	Brisbane             (away) to beat 	St Kilda             (home) with a probability of 	51.53%by a margin of 5
+Robs Elo predicts 	Port Adelaide        (home) to beat 	Geelong              (away) with a probability of 	53.80%by a margin of 0
+Robs Elo predicts 	Collingwood          (away) to beat 	Western Bulldogs     (home) with a probability of 	70.97%by a margin of 23
+Robs Elo predicts 	Essendon             (home) to beat 	GWS Giants           (away) with a probability of 	70.27%by a margin of 15
+Robs Elo predicts 	Geelong              (home) to beat 	Adelaide             (away) with a probability of 	68.47%by a margin of 13
+Robs Elo predicts 	West Coast           (away) to beat 	Hawthorn             (home) with a probability of 	53.51%by a margin of 7
+Robs Elo predicts 	Sydney               (home) to beat 	Gold Coast           (away) with a probability of 	92.78%by a margin of 36
+Robs Elo predicts 	Collingwood          (home) to beat 	North Melbourne      (away) with a probability of 	86.08%by a margin of 30
+Robs Elo predicts 	Port Adelaide        (home) to beat 	Western Bulldogs     (away) with a probability of 	71.38%by a margin of 16
+Robs Elo predicts 	Richmond             (away) to beat 	St Kilda             (home) with a probability of 	88.60%by a margin of 40
+Robs Elo predicts 	Melbourne            (away) to beat 	Brisbane             (home) with a probability of 	72.94%by a margin of 25
+Robs Elo predicts 	Fremantle            (home) to beat 	Carlton              (away) with a probability of 	81.67%by a margin of 25
+Robs Elo predicts 	Collingwood          (away) to beat 	Hawthorn             (home) with a probability of 	53.37%by a margin of 7
+Robs Elo predicts 	Essendon             (home) to beat 	Sydney               (away) with a probability of 	78.16%by a margin of 22
+Robs Elo predicts 	Richmond             (away) to beat 	Gold Coast           (home) with a probability of 	90.79%by a margin of 42
+Robs Elo predicts 	Adelaide             (home) to beat 	Port Adelaide        (away) with a probability of 	75.85%by a margin of 20
+Robs Elo predicts 	Geelong              (away) to beat 	Western Bulldogs     (home) with a probability of 	51.77%by a margin of 6
+Robs Elo predicts 	West Coast           (away) to beat 	Fremantle            (home) with a probability of 	81.76%by a margin of 34
+Robs Elo predicts 	Melbourne            (away) to beat 	Carlton              (home) with a probability of 	88.72%by a margin of 40
+Robs Elo predicts 	North Melbourne      (home) to beat 	St Kilda             (away) with a probability of 	90.29%by a margin of 34
+Robs Elo predicts 	GWS Giants           (home) to beat 	Brisbane             (away) with a probability of 	87.86%by a margin of 31
+Robs Elo predicts 	West Coast           (home) to beat 	Collingwood          (away) with a probability of 	66.74%by a margin of 12
+Robs Elo predicts 	Sydney               (home) to beat 	Carlton              (away) with a probability of 	93.31%by a margin of 36
+Robs Elo predicts 	Hawthorn             (home) to beat 	Fremantle            (away) with a probability of 	88.60%by a margin of 32
+Robs Elo predicts 	Essendon             (home) to beat 	North Melbourne      (away) with a probability of 	79.61%by a margin of 24
+Robs Elo predicts 	Adelaide             (away) to beat 	Gold Coast           (home) with a probability of 	78.72%by a margin of 31
+Robs Elo predicts 	Geelong              (home) to beat 	St Kilda             (away) with a probability of 	92.67%by a margin of 36
+Robs Elo predicts 	Richmond             (home) to beat 	GWS Giants           (away) with a probability of 	80.08%by a margin of 24
+Robs Elo predicts 	Melbourne            (away) to beat 	Western Bulldogs     (home) with a probability of 	65.90%by a margin of 19
+Robs Elo predicts 	Port Adelaide        (home) to beat 	Brisbane             (away) with a probability of 	77.68%by a margin of 22
+Robs Elo predicts 	Adelaide             (home) to beat 	Essendon             (away) with a probability of 	56.03%by a margin of 2
+Robs Elo predicts 	Richmond             (home) to beat 	Port Adelaide        (away) with a probability of 	89.32%by a margin of 33
+Robs Elo predicts 	Carlton              (home) to beat 	Gold Coast           (away) with a probability of 	64.77%by a margin of 10
+Robs Elo predicts 	GWS Giants           (home) to beat 	Collingwood          (away) with a probability of 	51.55%by a margin of 3
+Robs Elo predicts 	North Melbourne      (away) to beat 	Brisbane             (home) with a probability of 	52.40%by a margin of 6
+Robs Elo predicts 	Sydney               (away) to beat 	Fremantle            (home) with a probability of 	61.08%by a margin of 14
+Robs Elo predicts 	Geelong              (home) to beat 	Hawthorn             (away) with a probability of 	66.67%by a margin of 12
+Robs Elo predicts 	Melbourne            (home) to beat 	West Coast           (away) with a probability of 	61.06%by a margin of 6
+Robs Elo predicts 	Western Bulldogs     (away) to beat 	St Kilda             (home) with a probability of 	59.73%by a margin of 13
+Robs Elo predicts 	Collingwood          (home) to beat 	Richmond             (away) with a probability of 	65.00%by a margin of 10
+Robs Elo predicts 	Hawthorn             (home) to beat 	Brisbane             (away) with a probability of 	85.60%by a margin of 29
+Robs Elo predicts 	Adelaide             (away) to beat 	Carlton              (home) with a probability of 	80.06%by a margin of 32
+Robs Elo predicts 	West Coast           (home) to beat 	North Melbourne      (away) with a probability of 	86.15%by a margin of 30
+Robs Elo predicts 	Melbourne            (away) to beat 	St Kilda             (home) with a probability of 	85.12%by a margin of 37
+Robs Elo predicts 	GWS Giants           (away) to beat 	Port Adelaide        (home) with a probability of 	51.05%by a margin of 5
+Robs Elo predicts 	Western Bulldogs     (home) to beat 	Fremantle            (away) with a probability of 	78.44%by a margin of 22
+Robs Elo predicts 	Sydney               (home) to beat 	Geelong              (away) with a probability of 	61.54%by a margin of 7
+Robs Elo predicts 	Essendon             (away) to beat 	Gold Coast           (home) with a probability of 	85.28%by a margin of 37
+Robs Elo predicts 	North Melbourne      (home) to beat 	Hawthorn             (away) with a probability of 	59.52%by a margin of 5
+Robs Elo predicts 	Essendon             (home) to beat 	Port Adelaide        (away) with a probability of 	83.10%by a margin of 27
+Robs Elo predicts 	GWS Giants           (home) to beat 	Sydney               (away) with a probability of 	75.13%by a margin of 19
+Robs Elo predicts 	Geelong              (away) to beat 	Fremantle            (home) with a probability of 	66.18%by a margin of 19
+Robs Elo predicts 	Melbourne            (home) to beat 	Richmond             (away) with a probability of 	59.47%by a margin of 5
+Robs Elo predicts 	Adelaide             (home) to beat 	St Kilda             (away) with a probability of 	92.08%by a margin of 35
+Robs Elo predicts 	Collingwood          (home) to beat 	Gold Coast           (away) with a probability of 	97.33%by a margin of 40
+Robs Elo predicts 	West Coast           (away) to beat 	Carlton              (home) with a probability of 	90.92%by a margin of 42
+Robs Elo predicts 	Brisbane             (home) to beat 	Western Bulldogs     (away) with a probability of 	58.85%by a margin of 4
+Robs Elo predicts 	GWS Giants           (home) to beat 	Hawthorn             (away) with a probability of 	70.84%by a margin of 15
+Robs Elo predicts 	Melbourne            (home) to beat 	Collingwood          (away) with a probability of 	61.19%by a margin of 6
+Robs Elo predicts 	Port Adelaide        (home) to beat 	Sydney               (away) with a probability of 	59.22%by a margin of 5
+Robs Elo predicts 	Brisbane             (home) to beat 	Gold Coast           (away) with a probability of 	84.29%by a margin of 28
+Robs Elo predicts 	Essendon             (home) to beat 	Western Bulldogs     (away) with a probability of 	86.01%by a margin of 30
+Robs Elo predicts 	Geelong              (home) to beat 	North Melbourne      (away) with a probability of 	73.08%by a margin of 18
+Robs Elo predicts 	St Kilda             (home) to beat 	Fremantle            (away) with a probability of 	55.14%by a margin of 1
+Robs Elo predicts 	Richmond             (home) to beat 	Carlton              (away) with a probability of 	97.71%by a margin of 40
+Robs Elo predicts 	West Coast           (home) to beat 	Adelaide             (away) with a probability of 	83.26%by a margin of 27
+Robs Elo predicts 	Melbourne            (home) to beat 	Sydney               (away) with a probability of 	81.75%by a margin of 26
+Robs Elo predicts 	Carlton              (home) to beat 	St Kilda             (away) with a probability of 	59.19%by a margin of 5
+Robs Elo predicts 	Geelong              (away) to beat 	Brisbane             (home) with a probability of 	59.96%by a margin of 13
+Robs Elo predicts 	Collingwood          (away) to beat 	Adelaide             (home) with a probability of 	55.41%by a margin of 9
+Robs Elo predicts 	North Melbourne      (home) to beat 	Port Adelaide        (away) with a probability of 	71.53%by a margin of 16
+Robs Elo predicts 	Essendon             (away) to beat 	Fremantle            (home) with a probability of 	73.79%by a margin of 26
+Robs Elo predicts 	Richmond             (home) to beat 	West Coast           (away) with a probability of 	68.07%by a margin of 13
+Robs Elo predicts 	GWS Giants           (home) to beat 	Western Bulldogs     (away) with a probability of 	83.84%by a margin of 28
+Robs Elo predicts 	Hawthorn             (home) to beat 	Gold Coast           (away) with a probability of 	94.11%by a margin of 37
+Robs Elo predicts 	Melbourne            (away) to beat 	North Melbourne      (home) with a probability of 	55.11%by a margin of 9
+Robs Elo predicts 	Richmond             (home) to beat 	Brisbane             (away) with a probability of 	93.59%by a margin of 37
+Robs Elo predicts 	GWS Giants           (away) to beat 	Gold Coast           (home) with a probability of 	83.02%by a margin of 35
+Robs Elo predicts 	Port Adelaide        (home) to beat 	Fremantle            (away) with a probability of 	81.98%by a margin of 26
+Robs Elo predicts 	West Coast           (home) to beat 	Hawthorn             (away) with a probability of 	82.09%by a margin of 26
+Robs Elo predicts 	Geelong              (home) to beat 	Carlton              (away) with a probability of 	94.56%by a margin of 37
+Robs Elo predicts 	Western Bulldogs     (home) to beat 	Adelaide             (away) with a probability of 	50.35%by a margin of 4
+Robs Elo predicts 	Collingwood          (home) to beat 	Essendon             (away) with a probability of 	75.96%by a margin of 20
+Robs Elo predicts 	Sydney               (home) to beat 	St Kilda             (away) with a probability of 	91.03%by a margin of 34
+Exporting ..\Predictions\AFL\afl_future_predictions.csv.txt
