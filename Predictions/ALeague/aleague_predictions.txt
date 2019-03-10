@@ -1,0 +1,36 @@
+******************************
+Predictions
+******************************
+
+Importing ..\RawData\aleague\aleague_future.csv
+Robs Elo predicts 	Perth Glory            (away) to beat 	Adelaide Utd           (home) with a probability of 	56.41%by a margin of 0
+Robs Elo predicts 	Newcastle Jets         (home) to beat 	Central Coast Mariners (away) with a probability of 	88.13%by a margin of 1
+Robs Elo predicts 	Melbourne Victory      (home) to beat 	Brisbane Roar          (away) with a probability of 	80.15%by a margin of 1
+Robs Elo predicts 	Wellington Phoenix     (home) to beat 	Western Sydney         (away) with a probability of 	73.79%by a margin of 1
+Robs Elo predicts 	Sydney FC              (home) to beat 	Melbourne City         (away) with a probability of 	76.57%by a margin of 1
+Robs Elo predicts 	Sydney FC              (away) to beat 	Brisbane Roar          (home) with a probability of 	65.87%by a margin of 1
+Robs Elo predicts 	Wellington Phoenix     (home) to beat 	Newcastle Jets         (away) with a probability of 	57.23%by a margin of 0
+Robs Elo predicts 	Melbourne City         (away) to beat 	Western Sydney         (home) with a probability of 	51.29%by a margin of 0
+Robs Elo predicts 	Perth Glory            (home) to beat 	Melbourne Victory      (away) with a probability of 	75.38%by a margin of 1
+Robs Elo predicts 	Adelaide Utd           (away) to beat 	Central Coast Mariners (home) with a probability of 	65.52%by a margin of 1
+Robs Elo predicts 	Melbourne City         (home) to beat 	Brisbane Roar          (away) with a probability of 	76.86%by a margin of 1
+Robs Elo predicts 	Newcastle Jets         (home) to beat 	Western Sydney         (away) with a probability of 	78.91%by a margin of 1
+Robs Elo predicts 	Sydney FC              (home) to beat 	Melbourne Victory      (away) with a probability of 	72.89%by a margin of 1
+Robs Elo predicts 	Adelaide Utd           (home) to beat 	Wellington Phoenix     (away) with a probability of 	65.66%by a margin of 0
+Robs Elo predicts 	Perth Glory            (away) to beat 	Central Coast Mariners (home) with a probability of 	81.38%by a margin of 1
+Robs Elo predicts 	Brisbane Roar          (home) to beat 	Wellington Phoenix     (away) with a probability of 	52.96%by a margin of 0
+Robs Elo predicts 	Melbourne City         (home) to beat 	Adelaide Utd           (away) with a probability of 	66.17%by a margin of 0
+Robs Elo predicts 	Sydney FC              (away) to beat 	Western Sydney         (home) with a probability of 	65.93%by a margin of 1
+Robs Elo predicts 	Melbourne Victory      (home) to beat 	Central Coast Mariners (away) with a probability of 	88.93%by a margin of 1
+Robs Elo predicts 	Perth Glory            (home) to beat 	Newcastle Jets         (away) with a probability of 	76.80%by a margin of 1
+Robs Elo predicts 	Sydney FC              (home) to beat 	Perth Glory            (away) with a probability of 	60.97%by a margin of 0
+Robs Elo predicts 	Adelaide Utd           (home) to beat 	Melbourne Victory      (away) with a probability of 	57.09%by a margin of 0
+Robs Elo predicts 	Newcastle Jets         (away) to beat 	Brisbane Roar          (home) with a probability of 	54.14%by a margin of 0
+Robs Elo predicts 	Western Sydney         (away) to beat 	Central Coast Mariners (home) with a probability of 	52.74%by a margin of 0
+Robs Elo predicts 	Wellington Phoenix     (home) to beat 	Melbourne City         (away) with a probability of 	60.06%by a margin of 0
+Robs Elo predicts 	Brisbane Roar          (home) to beat 	Adelaide Utd           (away) with a probability of 	51.15%by a margin of 0
+Robs Elo predicts 	Melbourne City         (home) to beat 	Central Coast Mariners (away) with a probability of 	86.85%by a margin of 1
+Robs Elo predicts 	Newcastle Jets         (home) to beat 	Sydney FC              (away) with a probability of 	52.10%by a margin of 0
+Robs Elo predicts 	Melbourne Victory      (away) to beat 	Western Sydney         (home) with a probability of 	56.13%by a margin of 0
+Robs Elo predicts 	Perth Glory            (home) to beat 	Wellington Phoenix     (away) with a probability of 	81.48%by a margin of 1
+Exporting ..\Predictions\aleague\aleague_future_predictions.csv.txt
