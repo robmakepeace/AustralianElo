@@ -133,7 +133,7 @@ Australian ELO Sports Prediction Model
 
 [Big Bash 2017-2018](https://github.com/robmakepeace/AustralianElo/blob/master/RawData/BigBash/bigbash_2017_2018.csv)
 
-[Data Format/Team Indexes](./RawData/Big Bash/)
+[Data Format/Team Indexes](./RawData/BigBash/)
 
 <a name="graphs"/>
 
@@ -145,11 +145,15 @@ Australian ELO Sports Prediction Model
 
 ![AFL ODDS](./Graphs/AFL/ODDS_afl.png)
 
+![AFL_MARGINS](./Graphs/AFL/MARGINS_afl.png)
+
 ## NRL
 
 ![NRL ELO](./Graphs/NRL/ELO_nrl.png)
 
 ![NRL_ODDS](./Graphs/NRL/ODDS_nrl.png)
+
+![NRL_MARGINS](./Graphs/NRL/MARGINS_nrl.png)
 
 ## A-League
 
@@ -157,11 +161,15 @@ Australian ELO Sports Prediction Model
 
 ![A-League ODDS](./Graphs/ALeague/ODDS_aleague.png)
 
+![A-League MARGINS](./Graphs/ALeague/MARGINS_aleague.png)
+
 ## Super Rugby
 
 ![Super Rugby ELO](./Graphs/SuperRugby/ELO_super.png)
 
 ![Super Rugby ODDS](./Graphs/SuperRugby/ODDS_super.png)
+
+![Super Rugby MARGINS](./Graphs/SuperRugby/MARGINS_super.png)
 
 <a name="training"/>
 
