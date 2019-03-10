@@ -195,6 +195,6 @@ Australian ELO Sports Prediction Model
 
 # Predictions 
 
-[2018](./Predicitions2018)
+[2018](./Predictions2018)
 
-[2019](./Predicitions2019)
+[2019](./Predictions2019)
