@@ -1,5 +1,5 @@
 # AustralianElo
-Australian ELO Sports Prediction Model
+Australian ELO Sports Prediction Model by Rob Makepeace 
 
 # Contents
 
